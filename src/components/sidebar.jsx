@@ -28,7 +28,7 @@ export default class Sidebar extends Component {
                 <li><a href="https://www.linkedin.com/in/hectorgs19/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin-in"></i></a></li>
                 <li><a href="https://github.com/hectorgs19" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a></li>
                 <li><a href="https://www.instagram.com/hectorgs19/" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i></a></li>
-                <li><a href="https://www.facebook.com/hectorgomez19" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook-f"></i></a></li>
+                <li><a href="https://www.facebook.com/hectorgs19" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook-f"></i></a></li>
                 <br/>
                 {/* <li><a href="#" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li> */}
               </ul>
