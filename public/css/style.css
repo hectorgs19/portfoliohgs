@@ -150,7 +150,7 @@ figure {
   }
   @media screen and (max-width: 400px) and (min-width: 50px) {
     div.desc {
-      margin-top: 700px;
+      margin-top: 300px;
       position: static;
 
     }
@@ -365,7 +365,7 @@ figure {
       #colorlib-hero .flexslider .slider-text > .slider-text-inner {
         display: run-in;       /* cambios */
         vertical-align: bottom;
-        margin-top: 10em;
+        /* margin-top: 10em; */
         min-height: 700px;
         /* text-align: center; */
         /* max-height: 700px; */
@@ -533,7 +533,7 @@ div.about-desc>p{
   text-align: justify;
 }
 .desc{ /*cambios*/
-  margin-top: 120%;
+  margin-top: 80%;
   position: sticky !important;
 }
   .colorlib-heading span {

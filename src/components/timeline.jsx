@@ -25,7 +25,7 @@ export default class Timeline extends Component {
                         <h2>Development of Web Applications <span>2018-2019</span></h2>
                         <p>
                           Developing, implementing and maintaining web applications, irrespective of the model used and using specific technologies, guaranteeing secure access to data and complying with the accessibility, usability and quality criteria required by established standards.</p>
-                          <span><a className="btn btn-primary btn-learn" href="https://www.dropbox.com/s/6tw9qof6s4r9xkk/web%20developer%20degree.pdf?dl=0" target="_blank" rel="noopener noreferrer">View Details <i className="fas fa-eye"></i></a></span>
+                          <span><a className="btn btn-primary btn-learn" href="https://drive.google.com/open?id=15hCmCIlfNioPUmzovViBlR5xYzd5hjJ0" target="_blank" rel="noopener noreferrer">View Details <i className="fas fa-eye"></i></a></span>
                       </div>
                     </div>
                   </article>
@@ -37,7 +37,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>Development of Multiplatform Applications <span>2016-2018</span></h2>
                         <p>Developing, installing, documenting and maintaining multi-platform computer applications, using technologies and specific development environments, guaranteeing secure access to data and complying with «usability» and quality criteria required by established standards.</p>
-                        <span><a className="btn btn-primary btn-learn" href="https://www.dropbox.com/s/9ssxyg2uxrfd7wd/multiplatform%20debeloper%20degree.pdf?dl=0" target="_blank" rel="noopener noreferrer">View Details <i className="fas fa-eye" /></a></span>
+                        <span><a className="btn btn-primary btn-learn" href="https://drive.google.com/open?id=1275YvTz0v3uiXuebZQXIB11xzSwqK7Oi" target="_blank" rel="noopener noreferrer">View Details <i className="fas fa-eye" /></a></span>
                       </div>
                     </div>
                   </article>
@@ -49,7 +49,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>Telecommunications and Computer Systems <span>2014-2016</span></h2>
                         <p>Developing projects as well as managing and supervising the assembly and the maintenance of common telecommunication infrastructures and telecommunication systems and equipment such as broadband networks and fixed and mobile radio, electronic systems, audiovisual production and transmission, based on technical documentation, regulations and procedures, ensuring the performance, the quality, the safety and the environmental conservation.</p> 
-                        <span><a className="btn btn-primary btn-learn detalles" href="https://www.dropbox.com/s/0ju54kryv4ctzmg/telecomunications%20and%20computer%20sistems%20degree.pdf?dl=0" target="_blank" rel="noopener noreferrer">View Details <i className="fas fa-eye" /></a></span>
+                        <span><a className="btn btn-primary btn-learn detalles" href="https://drive.google.com/open?id=1ioiwMBGQddTjs9rMihRjC-4ga1zjOP3u" target="_blank" rel="noopener noreferrer">View Details <i className="fas fa-eye" /></a></span>
 
                       </div>
                     </div>
